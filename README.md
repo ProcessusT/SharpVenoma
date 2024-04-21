@@ -5,7 +5,7 @@
   <a href="https://twitter.com/intent/follow?screen_name=ProcessusT" title="Follow"><img src="https://img.shields.io/twitter/follow/ProcessusT?label=ProcessusT&style=social"></a>
   <br>
   <h1 >
-    CSharp reimplementation of <a href="https://github.com/ProcessusT/Venoma">Venoma</a>, another C++ Cobalt Strike beacon dropper with custom indirect syscalls execution<br />
+    CSharp reimplementation of <a href="https://github.com/ProcessusT/Venoma">Venoma</a>, <span style="font-size:11px;">another C++ Cobalt Strike beacon dropper with custom indirect syscalls execution</span><br />
   </h1>
   <br><br>
 </div>
@@ -33,11 +33,11 @@
 <br />
 Generate your raw payload and use the aes.py file to encrypt the data :<br />
 <div align="center">
-<img src="https://github.com/ProcessusT/SharpVenoma/raw/main/assets/payload_encode.png" width="100%;"><br>
+<img src="https://github.com/ProcessusT/SharpVenoma/raw/main/assets/payload_encode.png" width="60%;"><br>
 </div>
 Update the source code and choose what you want to execute :<br />
 <div align="center">
-<img src="https://github.com/ProcessusT/SharpVenoma/raw/main/assets/payload_update.png" width="100%;"><br>
+<img src="https://github.com/ProcessusT/SharpVenoma/raw/main/assets/payload_update.png" width="60%;"><br>
 </div>
 
 
