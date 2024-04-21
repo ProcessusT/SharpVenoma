@@ -5,9 +5,11 @@
   <a href="https://twitter.com/intent/follow?screen_name=ProcessusT" title="Follow"><img src="https://img.shields.io/twitter/follow/ProcessusT?label=ProcessusT&style=social"></a>
   <br>
   <h1 >
-    CSharp reimplementation of <a href="https://github.com/ProcessusT/Venoma">Venoma</a>, <span style="font-size:11px;">another C++ Cobalt Strike beacon dropper with custom indirect syscalls execution</span><br />
+    CSharp reimplementation of <a href="https://github.com/ProcessusT/Venoma">Venoma</a>
   </h1>
-  <br><br>
+  <br>
+  <span style="font-size:11px;">Another CSharp Cobalt Strike beacon dropper with custom indirect syscalls execution</span><br />
+  <br>
 </div>
 
 > A custom CSharp raw beacon dropper with :<br /><br />
