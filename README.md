@@ -12,6 +12,12 @@
   <br>
 </div>
 
+<div align="center">
+<img src="https://github.com/ProcessusT/SharpVenoma/raw/main/assets/edr2.png" width="80%;"><br>
+<img src="https://github.com/ProcessusT/SharpVenoma/raw/main/assets/edr1.png" width="80%;"><br>
+</div>
+
+<br>
 > A custom CSharp raw beacon dropper with :<br /><br />
 > <strong>DLL Unhooking (Perun's fart)</strong><br />
 > <strong>ETW Patching</strong><br />
@@ -22,10 +28,8 @@
 > <br />
 <br>
 <h4>All functions are included, choose what you need and remove anything else before compiling.</h4>
-<br>
-<div align="center">
-<img src="https://github.com/ProcessusT/SharpVenoma/raw/main/assets/edr1.png" width="100%;"><br>
-</div>
+
+
 <br>
 
 <br /><br />
