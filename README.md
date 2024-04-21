@@ -31,14 +31,10 @@
 
 ## Usage
 <br />
-Generate your raw payload and use the aes.py file to encrypt the data :<br />
-<div align="center">
-<img src="https://github.com/ProcessusT/SharpVenoma/raw/main/assets/payload_encode.png" width="60%;"><br>
-</div>
-Update the source code and choose what you want to execute :<br />
-<div align="center">
+Generate your raw payload and use the aes.py file to encrypt the data :<br /><br />
+<img src="https://github.com/ProcessusT/SharpVenoma/raw/main/assets/payload_encode.png" width="60%;"><br><br />
+Update the source code and choose what you want to execute :<br /><br />
 <img src="https://github.com/ProcessusT/SharpVenoma/raw/main/assets/payload_update.png" width="60%;"><br>
-</div>
 
 
 
